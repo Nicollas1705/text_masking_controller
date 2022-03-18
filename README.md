@@ -10,7 +10,6 @@ This package provides a TextEditingController for TextField and TextFormField wh
 # TODO README
 
 * Add example
-* Add dependency
 
 
 ## Example
@@ -24,7 +23,10 @@ This package provides a TextEditingController for TextField and TextFormField wh
 
 ```yaml
 dependencies:
-  ...
+  text_masking_controller:
+    git:
+      url: git://github.com/Nicollas1705/text_masking_controller
+      ref: master
 ```
 
 2. Import the library:
