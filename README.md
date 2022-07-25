@@ -25,7 +25,7 @@ This package provides a TextEditingController for TextField and TextFormField wh
 dependencies:
   text_masking_controller:
     git:
-      url: git://github.com/Nicollas1705/text_masking_controller
+      url: https://github.com/Nicollas1705/text_masking_controller
       ref: master
 ```
 
